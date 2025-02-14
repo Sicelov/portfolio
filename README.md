@@ -33,6 +33,7 @@
 
 ### Projects
 [World Population Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjczODFhNzgtMGM1OS00NWFiLTg1MzUtMTg0NzM0YmFiZjY4IiwidCI6ImIxYTgwNjM3LTM2MzItNDllZS05NjU2LTJkNTdjMDExNTJmZiJ9)
+[See github files and analysis](https://github.com/Sicelov/Population-Data-Analysis)
 
 Developed a Power BI dashboard to look at statistics and trends on world population. Used SQL and python to transform the data in order to visualize it in Power BI
 
