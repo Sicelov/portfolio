@@ -9,24 +9,27 @@
 ### Work Experience
 **Information Systems & Data Manager @ Young Heroes : May 2023 - Current**
 - Created and deployed interactive dashboards, enhancing data visibility and accessibility for stakeholders
-- Implemented 3 automation processes and integrated Y APIs, resulting in a 50% increase in operational efficiency.
-- Led Agile sprints, improving project delivery timelines by 70% compared to previous methodologies.
+- Implemented 3 automation processes and integrated APIs, resulting in a 50% increase in operational efficiency.
+- Led Agile sprints, improving project delivery timelines by 50% compared to previous methodologies.
 - Formulated and implemented 2 data management policies, ensuring compliance and improving data governance practices.
 - Developed 3 PowerShell scripts for system automation, reducing manual tasks and enhancing operational efficiency.
+- Provide capacity building for program teams through training on data collection tools and information security
+- Maintained an inventory of procured gadgets for community cadres and ensure efficient utilization
 
 **Business Intelligence Developer @ ICAP at Columbia University : March 2020 - April 2023**
 - Created 2 DHIS2 dashboards, improving data accessibility and decision-making across health programs.
 - Optimized data management processes, resulting in a 40% increase in data accuracy and reliability.
-- Designed and implemented 2 ETL processes, streamlining data integration and reducing processing time by 80%.
+- Designed and implemented 2 ETL processes, streamlining data integration and reducing processing time by 40%.
 - Developed 2 PowerShell scripts for system automation, reducing manual tasks and enhancing operational efficiency.
 - Designed and maintained 2 Research Department (WordPress) sites, improving user engagement and content delivery.
 
 **Data Management Officer @ Elizabeth Glaser Pediatric AIDS Foundation : March 2017 - November 2018**
-- Created 2 DHIS2 dashboards, improving data accessibility and decision-making across health programs.
-- Optimized data management processes, resulting in a 40% increase in data accuracy and reliability.
-- Designed and implemented 2 ETL processes, streamlining data integration and reducing processing time by 80%.
-- Developed 2 PowerShell scripts for system automation, reducing manual tasks and enhancing operational efficiency.
-- Designed and maintained 2 Research Department (WordPress) sites, improving user engagement and content delivery.
+- Contributed to 1 data policy and quality control measure resulting in a 30% improvement in data integrity and reliability
+- Developed and maintained 1 data management plan and documentation, streamlining data handling procedures
+- Led design of the study database and documentation (data dictionary) with support from the APHEA and Research Manager.
+- Managed data entry by 4 Study Nurses 
+- Analyzed study data in SPSS, Excel
+- Produced 1 weekly, monthly and annual progress reports
 
 ### Projects
 [World Population Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjczODFhNzgtMGM1OS00NWFiLTg1MzUtMTg0NzM0YmFiZjY4IiwidCI6ImIxYTgwNjM3LTM2MzItNDllZS05NjU2LTJkNTdjMDExNTJmZiJ9)
