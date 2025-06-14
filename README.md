@@ -7,7 +7,7 @@
 - Graduate Cert Business Analysis
 
 ### Work Experience
-**Information Systems & Data Manager @ Young Heroes : May 2023 - Current**
+**Information Systems & Data Manager @ Young Heroes : May 2023 - March 2025**
 - Created and deployed interactive dashboards, enhancing data visibility and accessibility for stakeholders
 - Implemented 3 automation processes and integrated APIs, resulting in a 50% increase in operational efficiency.
 - Led Agile sprints, improving project delivery timelines by 50% compared to previous methodologies.
