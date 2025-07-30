@@ -1,6 +1,6 @@
 # BI / Data Analytics Specialist / ML / AI Engineer / IT Business Analyst
 
-#### Techinical Skills: SQL, Power BI, Streamlit, Django, Flask, FastAPI, Python, R, DHIS2, PowerShell, Azure 
+#### Techinical Skills: SQL, Power BI, Streamlit, Django, Flask, FastAPI, Python, R, DHIS2, PowerShell, Azure, Docker, MLflow
 
 ### Education
 - Computer Science, MSc
