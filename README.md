@@ -32,10 +32,19 @@
 - Produced 1 weekly, monthly and annual progress reports
 
 ### Projects
+1. Developed a Loan Approval Prediction project that predicts whether a loan application will be approved based on applicant data. This helps financial institutions automate and enhance the decision-making process, reducing manual effort and bias.
+
+![Loan Approval App](https://github.com/Sicelov/loan-prediction/blob/main/Main_Loan.png)
+
+- [Loan Approval Prediction](https://loan-prediction-2phqrjw6ruigxwh2qmz57j.streamlit.app/)
+- [See github files and analysis](https://github.com/Sicelov/loan-prediction)
+
+2. Developed a Power BI dashboard to look at statistics and trends on world population. Used SQL and python to transform the data in order to visualize it in Power BI
+
 - [World Population Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjczODFhNzgtMGM1OS00NWFiLTg1MzUtMTg0NzM0YmFiZjY4IiwidCI6ImIxYTgwNjM3LTM2MzItNDllZS05NjU2LTJkNTdjMDExNTJmZiJ9)
 - [See github files and analysis](https://github.com/Sicelov/Population-Data-Analysis)
 
-Developed a Power BI dashboard to look at statistics and trends on world population. Used SQL and python to transform the data in order to visualize it in Power BI
+
 
 ![World Population](https://github.com/user-attachments/assets/fa95650a-be6a-40ca-ac3c-fb5f7344b0c5)
 
