@@ -46,20 +46,20 @@
 - [Customer Churn App Link](https://customer-churn-juw6of9t6ovxqecl6vyvop.streamlit.app/)
 - [See github files and analysis](https://github.com/Sicelov/customer-churn/tree/main)
 
-4. Developed a Power BI dashboard to look at statistics and trends on world population. Used SQL and python to transform the data in order to visualize it in Power BI
+3. Developed a Power BI dashboard to look at statistics and trends on world population. Used SQL and python to transform the data in order to visualize it in Power BI
+
+![World Population](https://github.com/user-attachments/assets/fa95650a-be6a-40ca-ac3c-fb5f7344b0c5)
 
 - [World Population Analysis](https://app.powerbi.com/view?r=eyJrIjoiYjczODFhNzgtMGM1OS00NWFiLTg1MzUtMTg0NzM0YmFiZjY4IiwidCI6ImIxYTgwNjM3LTM2MzItNDllZS05NjU2LTJkNTdjMDExNTJmZiJ9)
 - [See github files and analysis](https://github.com/Sicelov/Population-Data-Analysis)
 
+4. Developed Linear Regression machine learning model to analyze historical and future trends. disaggregated by Region, Subregion, Indicator, Dimension, Sex, and Year to provide granular insights. The results offered data-driven insights for policymakers and law enforcement to enhance crime prevention strategies. The analysis was visualized to track patterns and forecast future crime trends across different regions.
 
-
-![World Population](https://github.com/user-attachments/assets/fa95650a-be6a-40ca-ac3c-fb5f7344b0c5)
-
+![Predicted_Crime](https://github.com/user-attachments/assets/b492d46e-dc2b-4212-9008-743a9abd5050)
 
 [World Crime Data Analysis and Prediction](https://github.com/Sicelov/Crime-Data-Analysis-and-Prediction)
 
-Developed Linear Regression machine learning model to analyze historical and future trends. disaggregated by Region, Subregion, Indicator, Dimension, Sex, and Year to provide granular insights. The results offered data-driven insights for policymakers and law enforcement to enhance crime prevention strategies. The analysis was visualized to track patterns and forecast future crime trends across different regions.
 
-![Predicted_Crime](https://github.com/user-attachments/assets/b492d46e-dc2b-4212-9008-743a9abd5050)
+
 
 
