@@ -1,12 +1,29 @@
-# BI / Data Analytics Specialist / ML / AI Engineer / IT Business Analyst
+# Data Systems & Digital Transformation Leader / BI & Data Analytics Specialist / ML / AI Engineer / Full-Stack Developer / IT Business Analyst
 
-#### Techinical Skills: SQL, Power BI, Streamlit, Django, Flask, FastAPI, Python, R, DHIS2, PowerShell, Azure, Docker, MLflow, Jira, Wireframing
+#### Techinical Skills: SQL, Power BI, Streamlit, Django, Flask, FastAPI, Python, R, DHIS2, PowerShell, Azure, Docker, MLflow,regression, predictive analytics, forecasting, model evaluation (precision, recall, F1), class-imbalance handling (SMOTE), LLMs, RAG, Jira, Wireframing
 
 ### Education
 - Computer Science, MSc
 - Graduate Cert Business Analysis
 
+### AI & MACHINE LEARNING PROJECTS
+-	LLM KPI Assistant / Agentic Workflow (Young Heroes, production): Designed and deployed an LLM-powered assistant that interprets natural-language questions, queries enterprise data systems through integrated tools and returns KPI reports inside BI dashboards; progressed from proof-of-concept to production use by managers and programme staff.
+-	Document Q&A Assistant – RAG (GitHub): Built a RAG chatbot answering questions grounded in uploaded PDF and Word documents using LangChain, FAISS vector search, Sentence Transformer embeddings and GPT-4; tuned chunking and prompts to reduce hallucination. Applicable to querying policies, procedures and legislation.
+-	Risk Prediction Model with Explainability (GitHub): XGBoost classifier on 7,000 records predicting client drop-out; SMOTE for a 26% minority class; SHAP for explainable drivers; experiments tracked in MLflow, containerised with Docker and served through Streamlit.
+-	Predictive Modelling of Teenage Pregnancy in Eswatini (MSc dissertation): Compared Logistic Regression, Random Forest and Gradient Boosting on 4,824 records with 0.6% positive class; class weighting, SMOTE and cross-validation; selected model for 83% sensitivity on the at-risk class.
+-	Automated Data Quality & Anomaly Detection Engine (Young Heroes, production): Rules-based engine checking incoming data for completeness, validity and consistency and flagging anomalies before they reach reports and dashboards.
+
+
 ### Work Experience
+**Systems Developer – Digital Transformation, Data Science & AI Focal Person	Aug 2025 – Present**
+Young Heroes, Mbabane, Eswatini
+-	Lead AI and digital transformation: identify AI use cases, build proofs-of-concept and pilots, and take approved solutions into production and business adoption.
+-	Integrated generative AI (LLM) into BI dashboards through API-based model integration, enabling natural-language querying of KPIs and reducing manual reporting effort.
+-	Engineer automated ETL pipelines (Python, PowerShell, Task Scheduler) that supply clean, governed data to analytics and AI solutions.
+-	Develop automated data-quality and anomaly-flagging systems and digital data-collection tools with built-in validation rules.
+-	Integrate databases, reporting platforms and partner systems via REST APIs; translate business requirements into specifications and deploy changes with minimal disruption.
+-	Track adoption through usage and stakeholder feedback; document solutions and train business users so they can sustain them.
+
 **Information Systems & Data Manager @ Young Heroes : May 2023 - March 2025**
 - Created and deployed interactive dashboards, enhancing data visibility and accessibility for stakeholders
 - Implemented 3 automation processes and integrated APIs, resulting in a 50% increase in operational efficiency.
